@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @lyymuwu
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Computer Network
+- 👀 I’m interested in Computer Vision
+- 🌱 I’m currently learning Transfer Learning
+<!---
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me never
+--->
 
 - Till now there are ![](https://visitor-badge.glitch.me/badge?page_id=lyymuwu) 🧐
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyymuwu)](https://github.com/anuraghazra/github-readme-stats)
